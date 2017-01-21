@@ -1,0 +1,54 @@
+#EXTM3U
+
+#EXTINF:-1,Tvr1
+http://178.21.122.94:1935/live/_definst_/tvr1/playlist.m3u8?wowzasessionid=704396435
+#EXTINF:-1,Tvr2
+http://178.21.122.94:1935/live/_definst_/tvr2/playlist.m3u8?wowzasessionid=600438330
+#EXTINF:-1,ProTv Hd
+http://live.softiptv.com:9900/live/525/525/19041.ts
+#EXTINF:-1,Acasa Hd
+http://live.softiptv.com:9900/live/525/525/19059.ts
+#EXTINF:-1,KanalD Hd
+http://live.softiptv.com:9900/live/525/525/19048.ts
+#EXTINF:-1,PrimaTv
+http://live.softiptv.com:9900/live/525/525/19042.ts
+#EXTINF:-1,B1Tv
+http://live.softiptv.com:9900/live/525/525/19057.ts
+#EXTINF:-1,TvSE
+http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+#EXTINF:-1,Cinemax2
+http://live.softiptv.com:9900/live/525/525/19056.ts
+#EXTINF:-1,RomaniaTv
+http://live.softiptv.com:9900/live/525/525/19062.ts
+#EXTINF:-1,DiscoveryWorld
+http://live.softiptv.com:9900/live/525/525/19054.ts
+#EXTINF:-1,LookPlus
+http://live.softiptv.com:9900/live/525/525/19047.ts
+#EXTINF:-1,Eurosport1 Hd
+http://live.softiptv.com:9900/live/525/525/19050.ts
+#EXTINF:-1,DigiSport1
+http://mediaiptv.xyz:8000/live/pg/pg/2186.ts
+#EXTINF:-1,DigiSport1
+http://live.softiptv.com:9900/live/525/525/19069.ts
+#EXTINF:-1,DigiSport2
+http://live.softiptv.com:9900/live/525/525/19068.ts
+#EXTINF:-1,DigiSport2
+http://mediaiptv.xyz:8000/live/pg/pg/2185.ts
+#EXTINF:-1,DigiSport3
+http://mediaiptv.xyz:8000/live/pg/pg/2184.ts
+#EXTINF:-1,DigiSport4
+http://live.softiptv.com:9900/live/525/525/19066.ts
+#EXTINF:-1,Sport.ro Hd
+http://live.softiptv.com:9900/live/525/525/19040.ts
+#EXTINF:-1,KissTv
+http://live.softiptv.com:9900/live/525/525/19063.ts
+#EXTINF:-1,Taraf Tv
+http://live.softiptv.com:9900/live/525/525/19039.ts
+#EXTINF:-1,TvSE
+http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+
+#EXTINF:-1, RADIO_Romania
+#EXTINF:-1,GherlaFm90
+http://89.39.189.52:8000/
+#EXTINF:-1,RadioRomaniaActualitati
+http://89.238.227.6:8002
